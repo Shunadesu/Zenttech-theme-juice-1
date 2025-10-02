@@ -1,0 +1,27 @@
+{
+  "name": "Zenttech Juice - Tươi mát từ thiên nhiên",
+  "short_name": "Zenttech Juice",
+  "description": "Nước ép tươi ngon, nguyên liệu sạch, tốt cho sức khỏe. Đặt hàng online dễ dàng.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#14b8a6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["food", "health", "lifestyle"],
+  "lang": "vi",
+  "dir": "ltr"
+}
+
